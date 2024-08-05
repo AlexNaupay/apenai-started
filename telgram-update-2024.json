@@ -1,0 +1,62 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 372665262,
+            "message": {
+                "message_id": 3,
+                "from": {
+                    "id": 1582363210,
+                    "is_bot": false,
+                    "first_name": "Alex",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1582363210,
+                    "first_name": "Alex",
+                    "type": "private"
+                },
+                "date": 1722819451,
+                "text": "Jdjf"
+            }
+        },
+        {
+            "update_id": 372665263,
+            "message": {
+                "message_id": 4,
+                "from": {
+                    "id": 1582363210,
+                    "is_bot": false,
+                    "first_name": "Alex",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1582363210,
+                    "first_name": "Alex",
+                    "type": "private"
+                },
+                "date": 1722819511,
+                "text": "Jdjjf"
+            }
+        },
+        {
+            "update_id": 372665264,
+            "message": {
+                "message_id": 5,
+                "from": {
+                    "id": 1582363210,
+                    "is_bot": false,
+                    "first_name": "Alex",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1582363210,
+                    "first_name": "Alex",
+                    "type": "private"
+                },
+                "date": 1722819530,
+                "text": "Hello bot I are you ?"
+            }
+        }
+    ]
+}
