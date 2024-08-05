@@ -9,7 +9,7 @@ load_dotenv()
 SLEEP_SECONDS = 3
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 # MODEL_NAME = 'INGRESA EL NOMBRE DE TU MODELO CON FINE-TUNING'
-MODEL_NAME=''
+MODEL_NAME = 'gpt-4o-mini'
 
 client = OpenAI(api_key=os.getenv('OPENAI_KEY'))
 
