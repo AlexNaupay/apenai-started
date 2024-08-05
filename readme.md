@@ -23,3 +23,7 @@ pip install tiktoken
 - https://core.telegram.org/bots/api
 - https://github.com/tdlib/telegram-bot-api
 - https://tdlib.github.io/telegram-bot-api/build.html?os=Linux
+
+
+### Data
+- https://www.kaggle.com/
